@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x  ",
+    "xxx",
+    " a "
+  ],
+  "key":
+  {
+    "a":
+    {
+      "item": "minecraft:stick"
+    },
+    "x":
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result":
+  {
+    "item": "tulmod:golden_tul",
+    "count": 1
+  }
+}
