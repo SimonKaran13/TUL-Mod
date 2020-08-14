@@ -7,8 +7,17 @@ In the crafting table use the following pattern:
 
 ![crafting recipe](/images/crafting.png)
 
-where 'x' is any of these (wood, stone, gold, iron, diamond)
-and 's' is a stick.
+Replace the diamonds with (wood, stone, gold, iron) to get a TUL in the respective material.
+The netherite TUL can be obtained by upgrading the diamond TUL with a netherite ingot at a smithing table.
+
+## Installation
+1) Have an installed version of Minecraft with Forge for version 1.16.1
+2) Drop the .jar file in the mods folder of the installed Minecraft with Forge version.
+
+### Credits
+Special thanks to Matiuxgamer for doing the textures!
+
+Made by Simon Karan.
 
 
 
