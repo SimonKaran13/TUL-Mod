@@ -7,7 +7,6 @@ In the crafting table use the following pattern:
 
 ![crafting recipe](/images/crafting.png) ![crafting recipe](/images/goldcrafting.png) ![crafting recipe](/images/ironcraft.png) ![crafting recipe](/images/stonecrafting.png) ![crafting recipe](/images/woodcrafting.png)
 
-Replace the diamonds with (wood, stone, gold, iron) to get a TUL in the respective material.
 The netherite TUL can be obtained by upgrading the diamond TUL with a netherite ingot at a smithing table.
 
 ## Installation
